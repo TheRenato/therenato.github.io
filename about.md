@@ -17,6 +17,7 @@ Utveckling  & drift  av  mjukvarusystem. Har verkligen hittat rätt. Har inte ha
 ### Tidigare Studier
 
 El-programmet tog studenten 2001
+
 Studerade till undersköterska 2009
 
 ### Intressen
@@ -27,11 +28,11 @@ Teknik allmänt.
 Jag har byggt upp sidor för olika mindre företag. Första sidan jag byggde var under gymnasiet (2000) till min dåvarande fritidsintresse (Taekwondo), inget dom lärde ut i skolan och jag kunde då inte förstå varför mina fina bilder jag hade i datorn inte syntes.
 
 Jag tycker också om att spela Dataspel, speciellt vid mindre bra dagar.
-Det sista jag lärde mig ett år innan studierna var att starta upp en egen server(VPS) och hantera en egen spelserver för spel clanen som jag och några killar och tjejer skapade. Jag trodde då att alla hade samma brinnande intresse för datorer, speciellt så kallade gamers, och vi skulle hjälpas åt att driva och administrera servrarna. Men nej, det slutar med att jag administrerar allt åt grabbarna. I VPS:en så har vi våran TeamSpeak och webbsidor. Men trots att det har krävts mycket jobb att starta upp allt så har det varit roligt och lärorikt.
+Det sista jag lärde mig ett år innan studierna var att starta upp en egen server(VPS) och hantera en egen spelserver för spel clanen som jag, några killar och tjejer skapade. Jag trodde då att alla hade samma brinnande intresse för datorer, speciellt så kallade gamers, och vi skulle hjälpas åt att driva och administrera servrarna. Men nej, det slutar med att jag administrerar allt åt grabbarna. I VPS:en så har vi våran TeamSpeak och webbsidor. Men trots att det har krävts mycket jobb att starta upp allt så har det varit roligt och lärorikt.
 
 ### Framtiden
 
-Vill gärna kunna jobba inom detta. Vill kunna skapa mer avancerade system än det jag har gjort idag.
+Vill gärna kunna jobba inom IT. Vill kunna skapa mer avancerade system än det jag har gjort idag. Och om allt går som planerat så kommer jag bli färdig med min utbildning sommaren 2021.
 
 
 <!-- 
