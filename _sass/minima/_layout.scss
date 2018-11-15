@@ -13,7 +13,7 @@
 
 .site-title {
   @include relative-font-size(1.625);
-  font-weight: 300;
+  font-weight: 400;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
   margin-bottom: 0;
@@ -25,7 +25,8 @@
   }
   img {
     max-height: $base-line-height * $base-font-size * 5.25;
-  }
+    
+	}
 }
 
 .site-nav {
@@ -110,8 +111,13 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 10px double $background-color;
   padding: $spacing-unit 0;
+  background-color: $poop-color;
+
+  a {
+    color: $text-color-light;
+  }
 }
 
 .footer-heading {
@@ -127,7 +133,7 @@
 
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
-  color: $grey-color;
+  color: $text-color-light;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
