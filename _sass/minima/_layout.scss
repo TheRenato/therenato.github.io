@@ -2,8 +2,8 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  border-bottom: 10px double $background-color;
+  padding: 10px;
   min-height: $spacing-unit * 1.865;
   background-color: $poop-color;
   color: $text-color-light;
