@@ -1,0 +1,12 @@
+/* TEAM */
+	Author & Dev: Renato Opazo Salgado
+	Github: @TheRenato
+    
+/* THANKS */
+    To the Linnaeus University, theirs teachers and students.
+
+/* SITE */
+	Site Name: Renato's
+	Site URL: https://therenato.github.io/
+	Language: Swedish
+	
