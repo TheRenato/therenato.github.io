@@ -2,6 +2,7 @@
 layout: post
 title:  "First post!"
 date:   2018-11-12 11:10:12 -0600
+comments: true
 # categories: jekyll update
 ---
 

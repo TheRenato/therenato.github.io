@@ -17,8 +17,8 @@ title: Renato Opazo Salgado
 email: ro222fd@lnu.se
 description: >- # this means to ignore newlines until "baseurl:"
   Detta är Renato's sida. Han studerar just nu på Linneuniversitetet i programmet Utveckling & drift av mjukvarusystem. Innan studierna är självlärd inom det mesta som gäller datorer. Har byggt ex antal sidor och drivit egna servrar som fritids intresse.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://therenato.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: na
 github_username:  TheRenato
 
@@ -27,6 +27,8 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  # ```
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
