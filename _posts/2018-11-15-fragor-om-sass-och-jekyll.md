@@ -6,7 +6,7 @@ comments: true
 # categories: jekyll update
 ---
 
-I denna post kommer jag svara på några frågor om Sass och Jekyll. En del av Examinations uppgift 1 i kursen Klientbaserad webbprogramering (1DV022)
+I denna post kommer jag svara på några frågor om Sass och Jekyll. En del av Examinations uppgift 1 i kursen Klientbaserad webbprogramering (1DV022).
 
 Nu kommer vi till frågorna.
 

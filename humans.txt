@@ -1,6 +1,7 @@
 /* TEAM */
 	Author & Dev: Renato Opazo Salgado
 	Github: @TheRenato
+	Twitter: @The_Renato81
     
 /* THANKS */
     To the Linnaeus University, theirs teachers and students.
