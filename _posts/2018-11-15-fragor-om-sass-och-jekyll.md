@@ -12,9 +12,13 @@ Nu kommer vi till frågorna.
 
 * What do you think of pre-compiling your CSS?
 
-    * Compare to regular CSS
-    Kod mässigt så gör det lättare att förstå och att koda som den stödjer nestad kod.
+    * Compare to regular CSS: 
+
+    Kod mässigt så gör det lättare att förstå och att koda som den stödjer nestad kod. Blir också lättare att hitta för nästa utvecklare som tar över.
+    
     * Which techniques did you use?
+
+    Använde mig av den inbyggda jekyll minima theme. Och den använder sig av SCSS eller Sassy CSS.
     * Pros and cons?
 
 
