@@ -11,6 +11,7 @@ comments: true
 
 
 * What is robots.txt and how have you configure it for your site?
+    
     Robots text filen används av snälla sökmotorer hur du vill dom ska hantera din sida. Som vilka sidor som ska indexeras och länkar som ska följas. Men det är upp till sökmotorn, eller bättre sagt roboten, om den vill följa och respektera det som står i robots.txt. Så det är ingen bra ide att använda robots.txt för att hålla saker borta från obehöriga. 
     
     Och hur jag har använt robots.txt? Disallow: /
@@ -18,6 +19,7 @@ comments: true
     Det är ifall en snäll robot besöker min sida så kommer det inte att indexeras. Men som världen funkar idag, så kommer det säkert att göras men inte publiceras.
 
 * What is humans.txt and how have you configure it for your site?
+    
     Det är en liten text fil med information om vem som har skapat sidan och vilken var beställaren. Och kanske lite kontakt information. Detta är jätte bra ifall beställaren till sidan vill inte ha sånt information på själva sidan.
 
     Och hur använde jag humans.txt?
